@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1ece8d4-5043-45b8-be90-0e8ee760b12d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Loto/loto.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="c1ece8d4-5043-45b8-be90-0e8ee760b12d" name="Changes" comment="created component in loto.tsx&#10;started work with app in app.tsx">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loto/loto.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loto/loto.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +51,16 @@
       <updated>1666280151240</updated>
       <workItem from="1666280152495" duration="465000" />
       <workItem from="1666280637461" duration="5123000" />
-      <workItem from="1666341446094" duration="7752000" />
+      <workItem from="1666341446094" duration="11179000" />
     </task>
+    <task id="LOCAL-00001" summary="created component in loto.tsx&#10;started work with app in app.tsx">
+      <created>1666349765511</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666349765511</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,5 +76,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created component in loto.tsx&#10;started work with app in app.tsx" />
+    <option name="LAST_COMMIT_MESSAGE" value="created component in loto.tsx&#10;started work with app in app.tsx" />
   </component>
 </project>

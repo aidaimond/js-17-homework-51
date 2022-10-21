@@ -7,7 +7,7 @@ interface LotoProps {
 const Loto: React.FC<LotoProps> = props => {
     return (
         <div className="numbers">
-            <p>{props.getNumber}</p>
+            <p className="number">{props.getNumber}</p>
         </div>
     );
 };
